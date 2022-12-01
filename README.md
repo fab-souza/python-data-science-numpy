@@ -14,4 +14,4 @@
 
 ![](https://user-images.githubusercontent.com/67301805/205101453-3a893cb1-7fd5-4439-b843-3c1b3980ce03.jpg#vitrinedev)
 
-O que aprendi no 2º curso da formação: Python para Data Science (Alura)
+Neste segundo curso da formação Python para Data Science, fiz meus primeiros comandos com o Numpy. Aprendi sobre os principais operadores matemáticos, sobre as palavras reservadas em Python, operações com variáveis e a formatação de strings. Gostei bastante de aprender como se faz operações com listas, aplicar estruturas de repetição e condicionais a elas e aprendi um pouco mais sobre o Numpy.
