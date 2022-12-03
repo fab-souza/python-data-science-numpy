@@ -16,4 +16,4 @@
 
 Neste segundo curso da formação Python para Data Science, aprendi mais sobre o Numpy. Por exemplo, os principais operadores matemáticos, as palavras reservadas em Python, operações com variáveis e a formatação de strings. Gostei bastante de aprender mais sobre as operações com listas/arrays, aplicar estruturas de repetição e condicionais a elas, além do Numpy.
 
-No notebook curso_2_listas.ipynb, criei arrays com filmes lançados em 2022. Cada array contém 10 filmes de categorias diferentes, de ação à drama. Primeiro, fiz uma função para apresentar um item das arrays. Depois, fiz uma nova lista para conter as arrays anteriores e uma nova função para apresentar uma das categorias e um dos filmes presentes naquela array.
+No notebook curso_2_listas.ipynb, criei arrays com filmes lançados em 2022. Cada array contém 10 filmes de categorias diferentes, de ação à drama. Primeiro, fiz uma função para apresentar um item das arrays. Depois, fiz uma nova array para conter as anteriores e uma nova função para apresentar uma das categorias e um dos filmes presentes naquela array.
