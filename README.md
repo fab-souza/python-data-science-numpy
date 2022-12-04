@@ -17,3 +17,5 @@
 Neste segundo curso da formação Python para Data Science, aprendi mais sobre o Numpy. Por exemplo, os principais operadores matemáticos, as palavras reservadas em Python, operações com variáveis e a formatação de strings. Gostei bastante de aprender mais sobre as operações com listas/arrays, aplicar estruturas de repetição e condicionais a elas, além do Numpy.
 
 No notebook curso_2_listas.ipynb, criei listas com filmes lançados em 2022. Cada lista contém 10 filmes de categorias diferentes, de ação à drama. Primeiro, fiz uma função para apresentar um item das listas. Depois, fiz uma nova lista para conter as anteriores e uma nova função para apresentar uma das categorias e um dos filmes presentes naquela lista.
+
+Já no segundo notebook, curso_2_Numpy.ipynb, usei as notas presentes no IMDb dos mesmos filmes que usei no primeiro notebook. Fiz uma função para calcular a média das notas de cada categoria, porém calcular uma média é um problema comum e o Numpy já tem uma solução para isso. Portanto, além da média por array, o Numpy também oferece como calcular a média por linha, ou coluna, de um Numpy array.
