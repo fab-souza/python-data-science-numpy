@@ -10,7 +10,7 @@
 | :sparkles: Nome        | **Python para Data Science: linguagem e Numpy**
 | :label: Tecnologias | python
 | :rocket: URL         | https://github.com/fab-souza/python-data-science-numpy/
-| :fire: Desafio     | [Python para Data Science: linguagem e Numpy](https://www.alura.com.br/curso-online-python-tipos-listas-numpy)
+| :fire: Desafio     | Conteúdo do curso [Python para Data Science: linguagem e Numpy](https://www.alura.com.br/curso-online-python-tipos-listas-numpy)
 
 ![](https://user-images.githubusercontent.com/67301805/205101453-3a893cb1-7fd5-4439-b843-3c1b3980ce03.jpg#vitrinedev)
 
