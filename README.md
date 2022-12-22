@@ -14,6 +14,8 @@
 
 ![](https://user-images.githubusercontent.com/67301805/205101453-3a893cb1-7fd5-4439-b843-3c1b3980ce03.jpg#vitrinedev)
 
+## Sobre o curso 📚
+
 Neste segundo curso da formação Python para Data Science, aprendi mais sobre o Numpy. Por exemplo, os principais operadores matemáticos, as palavras reservadas em Python, operações com variáveis e a formatação de strings. Gostei bastante de aprender mais sobre as operações com listas/arrays, aplicar estruturas de repetição e condicionais a elas, além do Numpy.
 
 No notebook curso_2_listas.ipynb, criei listas com filmes lançados em 2022. Cada lista contém 10 filmes de categorias diferentes, de ação à drama. Primeiro, fiz uma função para apresentar um item das listas. Depois, fiz uma nova lista para conter as anteriores e uma nova função para apresentar uma das categorias e um dos filmes presentes naquela lista.
